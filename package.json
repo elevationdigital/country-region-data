@@ -1,15 +1,16 @@
 {
-  "name": "country-region-data",
-  "version": "1.6.0",
+  "name": "@elevationdigital/country-region-data",
+  "version": "1.6.1",
   "description": "List of countries, regions, and their shortcodes.",
   "main": "data.json",
   "types": "./index.d.ts",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "scripts": {
     "test": "grunt validate"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/benkeen/country-region-data.git"
+    "url": "https://github.com/elevationdigital/country-region-data.git"
   },
   "keywords": [
     "country",
@@ -19,9 +20,9 @@
   "author": "Ben Keen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/benkeen/country-region-data/issues"
+    "url": "https://github.com/elevationdigital/country-region-data/issues"
   },
-  "homepage": "https://github.com/benkeen/country-region-data",
+  "homepage": "https://github.com/elevationdigital/country-region-data",
   "devDependencies": {
     "grunt": "^1.1.0",
     "libumd": "^0.7.0",
