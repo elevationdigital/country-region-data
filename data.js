@@ -18135,7 +18135,7 @@ return [
     ]
   },
   {
-    "countryName": "United States",
+    "countryName": "United States of America",
     "countryShortCode": "US",
     "regions": [
       {
